@@ -1,0 +1,1 @@
+Cloud computing allows users to assess computing resources over the internet rather than relying on local hardware. Cloud computing offers advantageous such as scalability, flexibility and cost efficiency. organisations must also consider security, privacy and compliance when adopting cloud technology.

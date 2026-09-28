@@ -1,0 +1,3 @@
+Cyber security refers to the practice and technologies used to protect computer systems, networks, programs and data from unauthorized access, damage or cyber attacks. One important concept in cyber security is the CIA TRIET. CIA stands for Confidentiality, Integrity and Availability.
+
+Cyber security involves protecting computer systems, networks, and information from digital threats. Human behaviour also plays an important role in maintaining security. Users should create strong passwords, keep software updated, avoid suspicious downloads and remain cautious when receiving unexpected messages.
