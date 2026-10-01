@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 This project processes English-language lecture recordings and generates
 revision-oriented material using multiple pre-trained AI models.
 
