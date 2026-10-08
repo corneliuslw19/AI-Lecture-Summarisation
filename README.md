@@ -1,3 +1,4 @@
+# AI-Lecture-Summarisation 
 This project processes English-language lecture recordings and generates
 revision-oriented material using multiple pre-trained AI models.
 
@@ -8,12 +9,12 @@ The processing pipeline consists of:
 4. Structured revision-note generation
 5. Tkinter graphical user interface
 
-REQUIREMENTS
+# REQUIREMENTS
 - Python 3.11
 - FFmpeg
 - Python packages listed in requirements.txt
 
-INSTALLATION
+# INSTALLATION
 Install the required Python packages using:
 
 pip install -r requirements.txt
@@ -28,7 +29,7 @@ python gui.py
 Select a supported lecture audio file (MP3, WAV or M4A) and click
 "Process Lecture".
 
-OUTPUT
+# OUTPUT
 The system generates the following files in the output folder:
 
 - transcript.txt
